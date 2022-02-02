@@ -1,0 +1,15 @@
+name: CustomFishing
+version: 1.0-SNAPSHOT
+main: me.rxndmz.customfishing.CustomFishing
+api-version: 1.13
+authors: [Rxndmz]
+commands:
+  CustomFishing:
+    description: Gives a list of commands
+  FishTokens:
+    description: Displays a players fish token amount
+    aliases:
+      - ft
+      - fishtoken
+  Cooler:
+    description: Opens the players cooler

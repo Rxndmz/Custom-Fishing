@@ -1,0 +1,43 @@
+#                              #
+# Custom Fishing Plugin Config #
+#                              #
+#
+# SYSTEM #
+#
+Enabled: true
+#
+# REWARDS #
+#
+Rewards:
+
+  1:
+    # The reward item example: DIAMOND_BLOCK#
+    Item: DIAMOND
+    # Chance to get item (Higher is better) #
+    Chance: 5
+    # Amount of the item to give #
+    Amount: 4
+
+  2:
+
+    Item: EMERALD
+
+    Chance: 3
+
+  3:
+
+    Item: IRON_INGOT
+
+    Chance: 30
+
+  4:
+
+    Item: GOLD_INGOT
+
+    Chance: 23
+
+  5:
+
+    Item: COAL
+
+    Chance: 40
